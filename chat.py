@@ -20,7 +20,7 @@ crypto_db = {
     }
 }
 
-def crypto_buddy():
+def crypto_Dude():
     print("👋 Hey there! I'm CryptoBuddy, your guide to crypto investing! 🚀")
     print("Ask me about trending cryptos, sustainable coins, or long-term picks!")
     print("Type 'exit' to quit. ⚠️ Disclaimer: Crypto is risky—do your own research!")
@@ -69,4 +69,4 @@ def crypto_buddy():
             print("🤔 Hmm, I didn’t catch that. Try asking about 'trending', 'sustainable', or 'long-term' cryptos!")
 
 # Run the chatbot
-crypto_buddy()
+crypto_Dude()
